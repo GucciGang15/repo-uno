@@ -1,5 +1,5 @@
 # repo-uno
 Repositorio de Erick Chirinos
 
-##Descripcion
+## Descripcion
 Este es un repositorio hecho por Erick Chirinos
